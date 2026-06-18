@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js",
-    "vercel-start": "node app.js"
+    "vercel-start": "node src/app.js"
   },
   "author": "Sumit Gautam",
   "license": "ISC",
